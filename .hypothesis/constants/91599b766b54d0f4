@@ -1,0 +1,4 @@
+# file: C:\Users\fish.yuzhupeng\multi-model-orchestration\video_processor\logger.py
+# hypothesis_version: 6.148.12
+
+['\x1b[0m', '\x1b[31m', '\x1b[32m', '\x1b[33m', '\x1b[35m', '\x1b[36m', '%(message)s', '%Y-%m-%d %H:%M:%S', 'CRITICAL', 'DEBUG', 'ERROR', 'INFO', 'RESET', 'WARNING', 'video_processor']

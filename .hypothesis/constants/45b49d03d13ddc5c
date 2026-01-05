@@ -1,0 +1,4 @@
+# file: C:\Users\fish.yuzhupeng\multi-model-orchestration\video_processor\config.py
+# hypothesis_version: 6.148.12
+
+[2.0, 300, 1000, 3600, 10000, 'INFO', 'LOG_LEVEL', 'OPENAI_API_KEY', 'audio', 'data', 'gpt-3.5-turbo', 'gpt-4', 'gpt-4-turbo', 'results', 'videos']

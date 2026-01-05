@@ -1,0 +1,4 @@
+# file: C:\Users\fish.yuzhupeng\multi-model-orchestration\video_processor\thread_pool.py
+# hypothesis_version: 6.148.12
+
+['active_tasks', 'cancelled_tasks', 'completed_count', 'completed_tasks', 'failed_count', 'is_shutdown', 'max_workers', 'pending_tasks', 'submitted_count', 'total_tasks', '线程池已关闭']

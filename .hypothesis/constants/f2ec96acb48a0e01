@@ -1,0 +1,4 @@
+# file: C:\Users\fish.yuzhupeng\multi-model-orchestration\video_processor\audio_extractor.py
+# hypothesis_version: 6.148.12
+
+[300, '-i', '-map', '-q:a', '-y', '0', 'a', 'data/audio', 'ffmpeg', 'ffmpeg 未安装或不在 PATH 中', 'mp3', '音频提取超时']

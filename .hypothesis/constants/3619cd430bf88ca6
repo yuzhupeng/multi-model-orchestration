@@ -1,0 +1,4 @@
+# file: C:\Users\fish.yuzhupeng\multi-model-orchestration\video_processor\cache.py
+# hypothesis_version: 6.148.12
+
+[100, 1000, 'default', 'hit_rate', 'hits', 'max_size', 'max_size 必须大于 0', 'misses', 'size', 'total_requests', '缓存已清空']

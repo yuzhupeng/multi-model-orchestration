@@ -1,0 +1,4 @@
+# file: C:\Users\fish.yuzhupeng\multi-model-orchestration\video_processor\queue.py
+# hypothesis_version: 6.148.12
+
+[10000, 'completed_count', 'completed_tasks', 'created_at', 'error_message', 'failed_count', 'failed_tasks', 'max_retries', 'max_size', 'max_size 必须大于 0', 'pending_tasks', 'queue_length', 'retry_count', 'running_tasks', 'status', 'task_id', 'task_type', 'total_tasks', 'updated_at', '队列已清空']

@@ -1,0 +1,4 @@
+# file: C:\Users\fish.yuzhupeng\multi-model-orchestration\video_processor\transcript_generator.py
+# hypothesis_version: 6.148.12
+
+['OPENAI_API_KEY', 'Whisper API 返回空转录文本', 'auto', 'base', 'rb', 'text', 'whisper-1']

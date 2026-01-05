@@ -1,0 +1,4 @@
+# file: C:\Users\fish.yuzhupeng\multi-model-orchestration\video_processor\models.py
+# hypothesis_version: 6.148.12
+
+['audio_path', 'channel', 'completed', 'created_at', 'download', 'duration', 'extract', 'failed', 'pending', 'platform', 'processing_time', 'running', 'summarize', 'summary', 'task_id', 'title', 'transcribe', 'transcript', 'upload_date', 'url', 'video_metadata', 'video_path']
