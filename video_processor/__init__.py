@@ -22,6 +22,7 @@ from .exceptions import (
     ThreadPoolError,
 )
 from .logger import setup_logger, get_logger
+from .summary_generator import SummaryGenerator, ModelSelector
 
 __all__ = [
     "VideoMetadata",
@@ -39,4 +40,6 @@ __all__ = [
     "ThreadPoolError",
     "setup_logger",
     "get_logger",
+    "SummaryGenerator",
+    "ModelSelector",
 ]
