@@ -23,6 +23,7 @@ from .exceptions import (
 )
 from .logger import setup_logger, get_logger
 from .summary_generator import SummaryGenerator, ModelSelector
+from .orchestrator import Orchestrator
 
 __all__ = [
     "VideoMetadata",
@@ -42,4 +43,5 @@ __all__ = [
     "get_logger",
     "SummaryGenerator",
     "ModelSelector",
+    "Orchestrator",
 ]
